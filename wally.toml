@@ -1,0 +1,9 @@
+[package]
+name = "superinstance/luau-biome"
+version = "0.1.0"
+license = "MIT"
+author = "SuperInstance"
+description = "Deterministic biome generation for Roblox — 10 zones, mathematical structures, seeded worlds"
+realm = "shared"
+
+[dependencies]

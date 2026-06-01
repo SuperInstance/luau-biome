@@ -1,0 +1,11 @@
+{
+  "name": "luau-biome",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "luau-biome": {
+        "$path": "src"
+      }
+    }
+  }
+}
